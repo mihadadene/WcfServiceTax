@@ -1,0 +1,7 @@
+C:\Users\1695834\Desktop\WcfServiceTax\WcfServiceTax\bin\WcfServiceTax.dll.config
+C:\Users\1695834\Desktop\WcfServiceTax\WcfServiceTax\bin\WcfServiceTax.dll
+C:\Users\1695834\Desktop\WcfServiceTax\WcfServiceTax\bin\WcfServiceTax.pdb
+C:\Users\1695834\Desktop\WcfServiceTax\WcfServiceTax\obj\Debug\WcfServiceTax.csprojAssemblyReference.cache
+C:\Users\1695834\Desktop\WcfServiceTax\WcfServiceTax\obj\Debug\WcfServiceTax.csproj.CoreCompileInputs.cache
+C:\Users\1695834\Desktop\WcfServiceTax\WcfServiceTax\obj\Debug\WcfServiceTax.dll
+C:\Users\1695834\Desktop\WcfServiceTax\WcfServiceTax\obj\Debug\WcfServiceTax.pdb
